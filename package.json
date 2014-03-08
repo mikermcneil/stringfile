@@ -1,0 +1,28 @@
+{
+  "name": "stringfile",
+  "version": "0.0.0",
+  "description": "Utility for pulling output/console messages, errors, and any other strings that would normally be hard-coded in a node module into a standalone stringfile for (1) accessibility for review by non-technical project stakeholders and (2) translation for speakers of languages other than English.",
+  "main": "gettext.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikermcneil/stringfile.git"
+  },
+  "keywords": [
+    "stringfile",
+    "localization",
+    "i18n",
+    "module",
+    "error",
+    "console-message",
+    "translation"
+  ],
+  "author": "balderdashy <mike@balderdash.co> (http://balderdash.co/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikermcneil/stringfile/issues"
+  },
+  "homepage": "https://github.com/mikermcneil/stringfile"
+}
